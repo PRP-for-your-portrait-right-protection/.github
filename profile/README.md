@@ -102,5 +102,5 @@ TOKEN_EXPIRED = 3600 #3600 sec, If you want longer, you can change this time.
 
 | Name    | 박수현                                       |정태원                               | 박수연                                        | 조성현      | 이민지 | 박준혁                              |
 | ------- | --------------------------------------------- | ------------------------------------ | --------------------------------------------- | --------------------------------------- | -----| ----- |
-| Role    |     Backend    |             Frontend          |     Backend       | Frontend | Frontend | Backend  |
+| Role    |   PM, Backend, DevOps   |    Frontend, DevOps     | Backend, DevOps | Frontend | Frontend | Backend, AI, DevOps |
 | Github  | [@vivian0304](https://github.com/vivian0304) | [@teawon](https://github.com/teawon) | [@PARK-Su-yeon](https://github.com/PARK-Su-yeon) | [@vixloaze](https://github.com/vixloaze) | [@alswlfl29](https://github.com/alswlfl29)| [@JHPark02](https://github.com/JHPark02)|
