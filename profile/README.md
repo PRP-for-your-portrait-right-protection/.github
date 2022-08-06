@@ -11,9 +11,6 @@ It's really easy to use the service. After signing up for membership on the site
 
 I hope you can use this service effectively.
 
-# Demo
-
-( insert demo After )
 
 # System Architecture
 
@@ -77,25 +74,29 @@ TOKEN_EXPIRED = 3600 #3600 sec, If you want longer, you can change this time.
 
 # Feature
 
-### 회원가입 & 로그인
+### SignUp && SignIn
   
 <img width ="100%" src="https://user-images.githubusercontent.com/93627156/183096747-80bbc89e-707b-4521-863c-114df4e48b37.gif">
 
-### 인물추가 및 사진 등록
+### Upload peole's picture
   
 <img width ="100%" src="https://user-images.githubusercontent.com/93627156/183097508-61981675-bd63-439c-b5e5-e47de91d9bb0.gif">
 
-### 비디오 업로드
+### Upload Video
   
 <img width ="100%" src="https://user-images.githubusercontent.com/93627156/183097719-76186c59-885d-4c50-8247-09401a66e771.gif">
 
-### 효과 선택
+### Select Effect
   
 <img width ="100%" src="https://user-images.githubusercontent.com/93627156/183098321-ed926ab4-ed4e-474f-9410-956184c6dcbe.gif">
 
-### 선택 결과 화면
+### Check the Data
   
 <img width ="100%" src="https://user-images.githubusercontent.com/93627156/183097911-1e153f79-4615-4f13-a840-333049dc94a2.gif">
+
+
+### Sample Result
+<img width ="100%" src="https://user-images.githubusercontent.com/78795820/183230525-39b52eb6-af48-4dc5-9ebd-c708448227b2.gif">
 
 
 # Team Member
